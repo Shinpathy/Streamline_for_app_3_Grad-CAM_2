@@ -7,4 +7,4 @@ pytorch_lightning
 torchmetrics
 torchsummary
 Pillow
-gradcam
+grad-cam==1.4.8
