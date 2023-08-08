@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+torch
+torchvision
+pytorch_lightning
+torchmetrics
+torchsummary
+Pillow
+gradcam
